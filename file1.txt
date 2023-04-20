@@ -1,2 +1,0 @@
-this is file1 from local repo 
-try to push from local to Github(Version control System)
